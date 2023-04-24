@@ -13,7 +13,7 @@ public class ListaAplicacao {
     public static void main(String[] args) {
         boolean sair = false;
         int escolha = 0;
-        printInstrucao(); // lembrar de fazer o método
+        printInstrucao();
         
         while(!sair){
             System.out.println("Selecione a opcao: ");
